@@ -9,6 +9,8 @@ An open source Neural Network library
 An open source Machine Learning Framework
 #### 3.) Various Python libraries and packages such as 'pandas','numpy','scikit-learn','SciPy' and 'HDF5'.
 
+## Dataset for training- The IMDB dataset was processed to generate 'imdb_db.mat'.The pre-processed dataset is available at my google drive link https://drive.google.com/open?id=16_koz1epvMZbWPEtHuMhVPsFE_dmeV67 .
+
 ## Important Points-
 #### 1.) The project makes use of Transfer learning. It refers to the technique of using knowledge of one domain to another domain.i.e. a Neural Network model trained on one dataset can be used for another dataset by fine-tuning the former network.
 #### 2.) The project makes use of the pre-trained weights(model) on UTKFace dataset.The pre-trained weights are available at https://github.com/yu4u/age-gender-estimation/releases/download/v0.5/weights.29-3.76_utk.hdf5 .This model is 'model'.
