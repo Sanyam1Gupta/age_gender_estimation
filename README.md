@@ -9,7 +9,7 @@ An open source Neural Network library
 An open source Machine Learning Framework
 #### 3.) Various Python libraries and packages such as 'pandas','numpy','scikit-learn','SciPy' and 'HDF5'.
 
-### NOTE- The 'train_age_and_gender.ipynb' was run on Google Collaboratory to make use of the GPU provided by it for training the model.Thus the starting lines of this file had been written to enable Google Collaboratory to make use of the files from my google drive. These starting lines may be removed if you wish to use file by cloning this repository.
+### NOTE- The 'train_age_and_gender.ipynb' was run on Google Collaboratory to make use of the GPU provided by it for training the model.Thus the starting lines of this file had been written to enable Google Collaboratory to make use of the files from my google drive. These starting lines may be removed if you wish to use this file by cloning this repository.
 
 ## Dataset for training- 
 #### The IMDB dataset was processed to generate 'imdb_db.mat'.The pre-processed dataset is available at my google drive link https://drive.google.com/open?id=16_koz1epvMZbWPEtHuMhVPsFE_dmeV67 .
