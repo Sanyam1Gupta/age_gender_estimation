@@ -2,6 +2,8 @@
 
 ## The goal of this project is to train a Convolutional Neural Network for predicting the age and gender of people.
 
+## NOTE- The 'train_age_and_gender.ipynb' was run on Google Collaboratory to make use of the GPU provided by it for training the model.Thus the starting lines of this file had been written to enable Google Collaboratory to make use of the files from my google drive. These starting lines may be removed if you wish to use file by cloning this repository.
+
 ## Requirements-
 #### 1.) Keras-
 An open source Neural Network library
