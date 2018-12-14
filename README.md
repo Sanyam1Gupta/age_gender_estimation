@@ -4,7 +4,7 @@
 
 ## Requirements-
 #### 1.) Keras-
-An open source Neural Network library
+A open source Neural Network library
 #### 2.) TensorFlow-
 An open source Machine Learning Framework
 #### 3.) Various Python libraries and packages such as 'pandas','numpy','scikit-learn','SciPy' and 'HDF5'.
